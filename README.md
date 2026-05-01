@@ -23,3 +23,7 @@ Bestehende Inhalte, Seitenstrukturen, Vereinsinformationen, externe Links und be
 - `checklisten/`: Analyse-, Migrations- und Abnahme-Checklisten.
 - `templates/`: allgemeine Vorlage-A- und Vorlage-B-Dokumentation.
 - `vereine/`: projektspezifische Dokumentation, Inhalte und Template-Artefakte je Verein.
+
+## Wichtige CMS-Regelquelle
+
+Die Regeln fuer zContent, TinyMCE, Templates, Platzhalter, Formulare, CSS, JS und Asset-Pfade sind in `docs/cms-konventionen.md`, `docs/link-und-asset-regeln.md` und `checklisten/cms-einpflege-checkliste.md` zusammengefasst. Grundlage ist die externe Systemdokumentation `zcontent-cms-dokumentation.md`.
