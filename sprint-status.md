@@ -6,6 +6,8 @@ Der Aufwandscheck kann online auf der aktiven Website erfolgen und durch Exportd
 
 ## Projektuebersicht
 
+Die Go-Live-Daten bilden den mit den Vereinen kommunizierten Realisierungsstand ab.
+
 | Verein / Projekt | Domain | Go-Live | Empfehlung | Projektstatus | Naechster Schritt | Hinweis |
 |---|---|---:|---|---|---|---|
 | SV Hohenmoelsen 1919 e.V. | sv1919.de | 31.03.2026 | Referenz / eigene Basis | Abgeschlossen | Als Vergleich dokumentieren | Bereits abgeschlossen |
@@ -20,5 +22,5 @@ Der Aufwandscheck kann online auf der aktiven Website erfolgen und durch Exportd
 | TC Bad Fuessing e.V. | www.tc-bad-fuessing.de | 23.05.2026 | eher Vorlage B | Konzeption | Finale Navigation und Inhalte pruefen | Einspartenverein Tennis, Umlaut-Domain |
 | Teltower FV 1913 | teltowerfv1913.de | 22.05.2026 | Vorlage A | Planung | Mannschaftsstruktur, Jugendseiten, Downloads und Archiv gegen CMS abgleichen | 148 Seiten, 149 Medien/Downloads, 30 PDFs |
 | SV Hellern v. 1924 e.V. | sv-hellern.com | 22.05.2026 | Vorlage A | Planung | Datenexport und Zugangsdaten beschaffen, danach Umfang final bestimmen | Oeffentlicher Webcheck zeigt umfangreiche Mehrspartenstruktur |
-| SG Geising e.V. | sg-geising.de | 22.05.2026 | eher Vorlage A | offen | Bestehende Website analysieren und CMS-Zielstruktur erfassen | Mehrspartenverein, ZIP enthaelt Coming-soon und Remote-Redirect |
-| HD Tennis Academy | hd-tennis-academy.com | 22.05.2026 | offen | offen | Projektgrundlagen und Website pruefen | Neu in Projektuebersicht aus Notion-Stand |
+| SG Geising e.V. | sg-geising.de | 22.05.2026 | eher Vorlage A | offen / Nachfassen | Auftrag fehlt, Nachfassen | Mehrspartenverein, ZIP enthaelt Coming-soon und Remote-Redirect |
+| HD Tennis Academy | hd-tennis-academy.com | 22.05.2026 | offen | Angebot offen | Angebot erstellen | Neu in Projektuebersicht aus Notion-Stand |

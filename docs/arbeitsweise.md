@@ -37,3 +37,9 @@ Geplanter Standardumfang fuer Inhalte:
 ## Entscheidungsdisziplin
 
 Bereits getroffene Entscheidungen sind verbindlich. Aenderungen an Inhalt, Navigation, Design, Struktur oder Linkzielen erfolgen nur nach Rueckfrage bzw. ausdruecklicher Freigabe.
+
+## Vertrieb / Dunkelbereich
+
+Fuer potenziell betroffene Vereine, die sich noch nicht gemeldet haben, darf eine oeffentliche Webrecherche erfolgen. Grundlage sind sichtbare Hinweise wie `Powered by sportverein-homepage.de`, Impressumsangaben oder Referenzseiten.
+
+Dabei gilt: Nur oeffentliche Vereins-/Website-Daten erfassen, keine privaten Kontakt- oder Bankdaten ins Repo uebernehmen und jede Ansprache vorab rechtlich bzw. organisatorisch pruefen.
