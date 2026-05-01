@@ -3,7 +3,7 @@
 | Verein / Projekt | Empfehlung | Status | Naechster Schritt | Hinweis |
 |---|---|---|---|---|
 | Breitenfelder SV 1924 | Vorlage A | in Arbeit | BSV-Struktur und Inhalte final abgleichen | Viele Abteilungen, Partner, Downloads, externe Profile |
-| TSV Reinhardtsgrimma | eher Vorlage B | begonnen, ca. 20 % | Bestehende Vorschau pruefen und Reststruktur ergaenzen | Vorschau: https://tsv-reinhardtsgrimma.zliga.de/News/1771922880/1771923702/startseite |
+| TSV Reinhardtsgrimma | eher Vorlage B | aktueller Stand eingepflegt | Startseitenpfad, Kontaktformular und Reststruktur abgleichen | Vorschau: https://tsv-reinhardtsgrimma.zliga.de/News/1771922880/1771923702/startseite |
 | SuS 21 Oberhausen | Vorlage B / Referenz | dokumentierte Referenz | Als Vergleich fuer kompakte Vereinsseite nutzen | Bereits umgesetzt |
 | SV Hohenmoelsen 1919 e.V. | Referenz / eigene Basis | abgeschlossen | Als Vergleich dokumentieren | Bereits abgeschlossen |
 | VfL Wildenfels | offen | offen | Inhaltsumfang pruefen | Nach Struktur entscheiden |
