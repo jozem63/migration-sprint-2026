@@ -23,6 +23,8 @@ Bestehende Inhalte, Seitenstrukturen, Vereinsinformationen, externe Links und be
 - `checklisten/`: Analyse-, Migrations- und Abnahme-Checklisten.
 - `templates/`: allgemeine Vorlage-A- und Vorlage-B-Dokumentation.
 - `vereine/`: projektspezifische Dokumentation, Inhalte und Template-Artefakte je Verein.
+- `docs/aufwandscheck-schema.md`: Standard fuer Aufwandseinschaetzungen je Verein.
+- `docs/leadliste-dunkelbereich.md`: Arbeitsliste fuer potenzielle Vertriebs-/Marketing-Leads.
 
 ## Wichtige CMS-Regelquelle
 
