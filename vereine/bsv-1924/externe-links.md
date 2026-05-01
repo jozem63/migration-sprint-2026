@@ -6,9 +6,10 @@
 |---|---|---|
 | Szene BSV Fanshop | https://vonpech.de/Breitenfelder-SV | bekannt |
 | Facebook | offen | final pruefen |
-| Instagram | offen | final pruefen |
-| fussball.de | offen | konkrete URL aus Bestand pruefen |
-| FuPa | offen | konkrete URL aus Bestand pruefen |
+| Instagram Verein | https://www.instagram.com/breitenfelder_sportverein?igsh=MW5wdWliZW01Y2MxNg== | vom Verein nachgereicht |
+| Instagram Fussball | bisher verlinkt | durch Vereins-Instagram ersetzen, falls nicht bewusst anders gewuenscht |
+| fussball.de | offen | bevorzugt fuer Fussball-Spielplaene verwenden |
+| FuPa | offen | nach Feedback moeglichst nicht fuer Spielplaene verwenden, wenn fussball.de verfuegbar |
 
 ## Regel
 

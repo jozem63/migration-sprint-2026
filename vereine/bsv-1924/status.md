@@ -12,4 +12,7 @@
 | Inhalte | offen | Alte Website und vorhandene Daten final abgleichen |
 | Externe Profile | teilweise offen | fussball.de und FuPa konkret pruefen |
 | Downloads | offen | Vollstaendige Liste aus Bestand pruefen |
-| Abnahme | offen | Nach finalem CMS-Abgleich |
+| Abnahme | freigegeben mit Hinweis | Verein sagt: passt soweit und kann losgehen |
+| Go-Live | vorgesehen | 02.05.2026 |
+| Muss vor Start | offen | JuJutsu-Kontakt `Marc Hortsch` entfernen |
+| Nach Go-Live / Einweisung | offen | Icons, mobile Abteilungsdarstellung, Fussball.de-Widgets, Datenpflege-Schulung |

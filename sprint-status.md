@@ -11,7 +11,7 @@ Die Go-Live-Daten bilden den mit den Vereinen kommunizierten Realisierungsstand 
 | Verein / Projekt | Domain | Go-Live | Empfehlung | Projektstatus | Naechster Schritt | Hinweis |
 |---|---|---:|---|---|---|---|
 | SV Hohenmoelsen 1919 e.V. | sv1919.de | 31.03.2026 | Referenz / eigene Basis | Abgeschlossen | Als Vergleich dokumentieren | Bereits abgeschlossen |
-| Breitenfelder SV 1924 e.V. | breitenfelder-sv.de | 02.05.2026 | Vorlage A | Go-Live morgen | Finalen Go-Live-Check, DNS/SSL/Redirect und Sichtpruefung vorbereiten | Fuer 02.05.2026 zum Go-Live vorgesehen |
+| Breitenfelder SV 1924 e.V. | breitenfelder-sv.de | 02.05.2026 | Vorlage A | Go-Live morgen / Freigabe mit Muss-Punkt | JuJutsu-Kontakt entfernen, danach finaler Go-Live-Check | Verein gibt grundsaetzlich frei; weitere Punkte koennen nach Start / Einweisung folgen |
 | SuS 21 Oberhausen e.V. | sus21-oberhausen.de | 02.05.2026 | Vorlage B / Referenz | Go-Live morgen | Finalen Go-Live-Check, DNS/SSL/Redirect und Sichtpruefung vorbereiten | Fuer 02.05.2026 zum Go-Live vorgesehen |
 | TSV Reinhardtsgrimma 1894 e.V. | tsv-reinhardtsgrimma.de | 09.05.2026 | eher Vorlage B | In Arbeit | Startseitenpfad, Kontaktformular und Reststruktur abgleichen | Vorschau dokumentiert |
 | VfL Wildenfels e.V. | vfl-wildenfels.de | 09.05.2026 | Vorlage A | In Arbeit | Datenexport beschaffen und Altdomain gegen CMS abgleichen | Projekt-ZIP ohne Altseitenexport, 4 Abteilungen und Fussball-Ligawidgets geplant |
