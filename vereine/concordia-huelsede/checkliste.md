@@ -1,0 +1,28 @@
+# Checkliste Concordia Huelsede
+
+- [ ] Backup-Seiten gegen Zielnavigation abgleichen
+- [ ] CMS-Zielpfade aus zContent erfassen
+- [ ] Vereinsfarben final abstimmen
+- [ ] Social-Media-URLs beim Verein abfragen
+- [ ] E-Mail-Postfaecher / Weiterleitungen klaeren
+- [ ] Logo-Varianten pruefen
+- [ ] Design & Navigation fuer 7 Sparten/Bereiche aufbauen
+- [ ] Gaststaette / Sportheim migrieren
+- [ ] Fitness / Gymnastik migrieren
+- [ ] Concordia Kids migrieren
+- [ ] Tischtennis migrieren
+- [ ] Ski migrieren
+- [ ] Fussball migrieren
+- [ ] Prellball migrieren
+- [ ] Newsarchiv migrieren
+- [ ] Termine / Kalender pruefen und migrieren
+- [ ] Downloads / PDFs migrieren
+- [ ] Sponsoren uebernehmen
+- [ ] Kontaktformular einrichten
+- [ ] Impressum / Datenschutz pruefen
+- [ ] Archivseite klaeren und ggf. anlegen
+- [ ] Altbestand `Vorstand geloescht` fachlich abstimmen
+- [ ] Staging-Freigabe einholen
+- [ ] DNS / SSL / Redirect vorbereiten
+- [ ] PWA / SEO einbauen
+- [ ] Uebergabe und Einweisung durchfuehren

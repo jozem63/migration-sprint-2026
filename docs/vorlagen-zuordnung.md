@@ -12,6 +12,6 @@
 | SC Gaissach | eher Vorlage A | 8 Sportsparten, umfangreiche Archive, Sponsoren, Formulare und gewachsene Mehrspartenstruktur |
 | SG Geising | eher Vorlage A | Mehrspartenverein mit Curling, Eishockey, Fussball, Volleyball und Radsport |
 | TSV Meine | eher Vorlage A | TSV-Struktur spricht meist fuer mehrere Sparten |
-| Concordia Huelsede | eher Vorlage B | Vermutlich kompakter Vereinsauftritt |
+| Concordia Huelsede | Vorlage B | Kompakter Mehrspartenverein mit 21 exportierten Seiten, 86 Medien und 7 Sparten/Bereichen |
 | TC Bad Fuessing | eher Vorlage B | Einspartenverein Tennis |
 | Teltower FV 1913 | eher Vorlage A | Fussballverein mit Mannschaftsstruktur |
