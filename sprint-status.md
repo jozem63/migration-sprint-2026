@@ -7,7 +7,7 @@
 | SuS 21 Oberhausen | Vorlage B / Referenz | dokumentierte Referenz | Als Vergleich fuer kompakte Vereinsseite nutzen | Bereits umgesetzt |
 | SV Hohenmoelsen 1919 e.V. | Referenz / eigene Basis | abgeschlossen | Als Vergleich dokumentieren | Bereits abgeschlossen |
 | VfL Wildenfels | offen | offen | Inhaltsumfang pruefen | Nach Struktur entscheiden |
-| Heiligenhaeger SV | offen | offen | Abteilungen und Newsumfang pruefen | Nach Struktur entscheiden |
+| Heiligenhaeger SV | eher Vorlage B | dokumentiert | CMS-Stand pruefen und kompakte Struktur finalisieren | 17 Seiten, 55 Medien, CMS PLUS |
 | SV Hellern | eher Vorlage A | offen | Umfang und Sparten pruefen | Vermutlich umfangreicher Mehrspartenverein |
 | SC Gaissach | eher Vorlage A | dokumentiert | CMS-Zielstruktur und Abteilungsumfang abstimmen | 8 Sportsparten, 447 Seiten, 1512 Medien |
 | SG Geising | eher Vorlage A | dokumentiert | Bestehende Website analysieren und CMS-Zielstruktur erfassen | Mehrspartenverein, ZIP enthaelt Coming-soon und Remote-Redirect |
