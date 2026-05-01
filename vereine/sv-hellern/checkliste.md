@@ -1,0 +1,34 @@
+# Checkliste SV Hellern
+
+- [ ] Zugangsdaten fuer Umfangspruefung beschaffen
+- [ ] Vollstaendigen Datenexport der bestehenden Website beschaffen
+- [ ] Oeffentlich sichtbare Struktur gegen Export/CMS abgleichen
+- [ ] Beratungsgespraech dokumentieren
+- [ ] Auftrag bestaetigt dokumentieren
+- [ ] Staging erreichbar pruefen
+- [ ] CMS-Installation pruefen
+- [ ] Datensicherung der alten Website anfordern
+- [ ] AuthCode fuer Domain klaeren
+- [ ] IONOS-Vertrag vorbereiten
+- [ ] Vereinsfarben final abstimmen
+- [ ] Social-Media-Praesenzen erfassen
+- [ ] Design & Navigation fuer 13 Abteilungen aufbauen
+- [ ] Bereich 100 Jahre SVH pruefen und uebernehmen
+- [ ] Bereich SVH-Clubhouse pruefen und uebernehmen
+- [ ] Bereich Hallenplaene pruefen und uebernehmen
+- [ ] Abteilungsinhalte migrieren
+- [ ] Tamburello als oeffentlich sichtbare Abteilung pruefen
+- [ ] Praesidium / Vorstand 2026 anlegen
+- [ ] Geschaeftsstelle und Oeffnungszeiten eintragen
+- [ ] Abteilungs-E-Mail-Adressen eintragen
+- [ ] News migrieren
+- [ ] Termine / Kalender migrieren
+- [ ] Downloads / PDFs migrieren
+- [ ] Archivseite anlegen
+- [ ] Kontaktformular einrichten
+- [ ] DSGVO / Cookie-Consent konfigurieren
+- [ ] Ligawidgets einbinden
+- [ ] Staging-Freigabe einholen
+- [ ] DNS / SSL / Redirect vorbereiten
+- [ ] PWA / SEO einbauen
+- [ ] Uebergabe und Einweisung durchfuehren

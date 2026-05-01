@@ -8,7 +8,7 @@
 | SV Hohenmoelsen | Referenz / eigene Basis | Bereits abgeschlossen, kann als Vergleich dienen |
 | VfL Wildenfels | offen | Nach Inhaltsumfang entscheiden |
 | Heiligenhaeger SV | eher Vorlage B | Ueberschaubarer Vereinsauftritt mit 17 archivierten Seiten, 55 Medien und CMS PLUS |
-| SV Hellern | eher Vorlage A | Vermutlich umfangreicher Mehrspartenverein |
+| SV Hellern | Vorlage A | Oeffentlicher Webcheck zeigt umfangreiche Mehrspartenstruktur; finale Umfangsbestaetigung erst nach Datenexport/Zugangsdaten |
 | SC Gaissach | eher Vorlage A | 8 Sportsparten, umfangreiche Archive, Sponsoren, Formulare und gewachsene Mehrspartenstruktur |
 | SG Geising | eher Vorlage A | Mehrspartenverein mit Curling, Eishockey, Fussball, Volleyball und Radsport |
 | TSV Meine | eher Vorlage A | TSV-Struktur spricht meist fuer mehrere Sparten |

@@ -8,7 +8,7 @@
 | SV Hohenmoelsen 1919 e.V. | Referenz / eigene Basis | abgeschlossen | Als Vergleich dokumentieren | Bereits abgeschlossen |
 | VfL Wildenfels | offen | offen | Inhaltsumfang pruefen | Nach Struktur entscheiden |
 | Heiligenhaeger SV | eher Vorlage B | dokumentiert | CMS-Stand pruefen und kompakte Struktur finalisieren | 17 Seiten, 55 Medien, CMS PLUS |
-| SV Hellern | eher Vorlage A | offen | Umfang und Sparten pruefen | Vermutlich umfangreicher Mehrspartenverein |
+| SV Hellern | Vorlage A | dokumentiert / Umfang vorlaeufig | Datenexport und Zugangsdaten beschaffen, danach Umfang final bestimmen | Oeffentlicher Webcheck zeigt umfangreiche Mehrspartenstruktur |
 | SC Gaissach | eher Vorlage A | dokumentiert | CMS-Zielstruktur und Abteilungsumfang abstimmen | 8 Sportsparten, 447 Seiten, 1512 Medien |
 | SG Geising | eher Vorlage A | dokumentiert | Bestehende Website analysieren und CMS-Zielstruktur erfassen | Mehrspartenverein, ZIP enthaelt Coming-soon und Remote-Redirect |
 | TSV Meine | eher Vorlage A | offen | Spartenstruktur pruefen | TSV-Struktur spricht fuer mehrere Sparten |
