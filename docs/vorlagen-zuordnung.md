@@ -9,7 +9,7 @@
 | VfL Wildenfels | offen | Nach Inhaltsumfang entscheiden |
 | Heiligenhaeger SV | offen | Nach Abteilungen und Newsumfang entscheiden |
 | SV Hellern | eher Vorlage A | Vermutlich umfangreicher Mehrspartenverein |
-| SC Gaissach | offen | Struktur pruefen |
+| SC Gaissach | eher Vorlage A | 8 Sportsparten, umfangreiche Archive, Sponsoren, Formulare und gewachsene Mehrspartenstruktur |
 | TSV Meine | eher Vorlage A | TSV-Struktur spricht meist fuer mehrere Sparten |
 | Concordia Huelsede | eher Vorlage B | Vermutlich kompakter Vereinsauftritt |
 | TC Bad Fuessing | eher Vorlage B | Einspartenverein Tennis |
