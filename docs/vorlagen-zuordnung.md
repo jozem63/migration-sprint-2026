@@ -14,4 +14,4 @@
 | TSV Meine | Vorlage A | Grosser Mehrspartenverein mit 327 exportierten Seiten, 967 Backup-Medien, 154 PDFs und tiefer Sportarten-/Archivstruktur |
 | Concordia Huelsede | Vorlage B | Kompakter Mehrspartenverein mit 21 exportierten Seiten, 86 Medien und 7 Sparten/Bereichen |
 | TC Bad Fuessing | eher Vorlage B | Einspartenverein Tennis |
-| Teltower FV 1913 | eher Vorlage A | Fussballverein mit Mannschaftsstruktur |
+| Teltower FV 1913 | Vorlage A | Fussballverein mit 148 exportierten Seiten, Herren-/Jugendstruktur, Ligawidgets, Downloads und Archiv |

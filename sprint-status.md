@@ -14,4 +14,4 @@
 | TSV Meine | Vorlage A | dokumentiert | Sportarten, Downloads und Archivumfang priorisieren und gegen CMS abgleichen | 327 Seiten, 967 Backup-Medien, 154 PDFs, 16 Sportarten/Sparten |
 | Concordia Huelsede | Vorlage B | dokumentiert | Seitenexport und Zielnavigation 1:1 gegen CMS abgleichen | 21 Seiten, 86 Medien, 7 Sparten/Bereiche |
 | TC Bad Fuessing | eher Vorlage B | dokumentiert | Finale Navigation und Inhalte pruefen | Einspartenverein Tennis, Umlaut-Domain |
-| Teltower FV 1913 | eher Vorlage A | offen | Mannschaftsstruktur pruefen | Fussballverein mit Mannschaftsstruktur |
+| Teltower FV 1913 | Vorlage A | dokumentiert | Mannschaftsstruktur, Jugendseiten, Downloads und Archiv gegen CMS abgleichen | 148 Seiten, 149 Medien/Downloads, 30 PDFs, Fussballverein mit Herren-/Jugendstruktur |

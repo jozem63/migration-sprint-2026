@@ -1,0 +1,32 @@
+# Checkliste Teltower FV 1913
+
+- [ ] Go-Live-Termin 22.05.2026 final pruefen
+- [ ] CMS-Zielpfade aus zContent erfassen
+- [ ] Hauptnavigation final abgleichen
+- [ ] Vereinsfarben final abstimmen
+- [ ] Social-Media-Praesenzen erfassen
+- [ ] Trainer-/Jugendleiterdaten fachlich klaeren
+- [ ] Sponsorenliste beim Verein abfragen
+- [ ] Startseite migrieren
+- [ ] Herren-Seiten anlegen und migrieren
+- [ ] 1. Herren migrieren
+- [ ] 2. Herren migrieren
+- [ ] Ue40 migrieren
+- [ ] Freizeitmannschaft migrieren
+- [ ] Jugendseiten A bis F anlegen und migrieren
+- [ ] Archivierte/geloeschte Mannschaftsseiten fachlich klaeren
+- [ ] Ligawidgets fuer alle relevanten Mannschaften einbinden
+- [ ] Verein / Vorstand / Jugendleitung migrieren
+- [ ] Anfahrt-Seiten migrieren
+- [ ] Sponsoren migrieren
+- [ ] TFV Vereinsshop pruefen
+- [ ] Training / Service migrieren
+- [ ] Probetraining migrieren
+- [ ] Downloads / PDFs pruefen und migrieren
+- [ ] Datenschutz / Impressum pruefen
+- [ ] Kinderschutzkonzept pruefen und einpflegen
+- [ ] Archivstrategie abstimmen
+- [ ] Staging-Freigabe einholen
+- [ ] DNS / SSL / Redirect vorbereiten
+- [ ] PWA / SEO einbauen
+- [ ] Uebergabe und Einweisung durchfuehren
