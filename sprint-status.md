@@ -10,6 +10,7 @@
 | Heiligenhaeger SV | offen | offen | Abteilungen und Newsumfang pruefen | Nach Struktur entscheiden |
 | SV Hellern | eher Vorlage A | offen | Umfang und Sparten pruefen | Vermutlich umfangreicher Mehrspartenverein |
 | SC Gaissach | eher Vorlage A | dokumentiert | CMS-Zielstruktur und Abteilungsumfang abstimmen | 8 Sportsparten, 447 Seiten, 1512 Medien |
+| SG Geising | eher Vorlage A | dokumentiert | Bestehende Website analysieren und CMS-Zielstruktur erfassen | Mehrspartenverein, ZIP enthaelt Coming-soon und Remote-Redirect |
 | TSV Meine | eher Vorlage A | offen | Spartenstruktur pruefen | TSV-Struktur spricht fuer mehrere Sparten |
 | Concordia Huelsede | eher Vorlage B | offen | Umfang pruefen | Vermutlich kompakter Vereinsauftritt |
 | TC Bad Fuessing | eher Vorlage B | dokumentiert | Finale Navigation und Inhalte pruefen | Einspartenverein Tennis, Umlaut-Domain |

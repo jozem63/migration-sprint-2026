@@ -10,6 +10,7 @@
 | Heiligenhaeger SV | offen | Nach Abteilungen und Newsumfang entscheiden |
 | SV Hellern | eher Vorlage A | Vermutlich umfangreicher Mehrspartenverein |
 | SC Gaissach | eher Vorlage A | 8 Sportsparten, umfangreiche Archive, Sponsoren, Formulare und gewachsene Mehrspartenstruktur |
+| SG Geising | eher Vorlage A | Mehrspartenverein mit Curling, Eishockey, Fussball, Volleyball und Radsport |
 | TSV Meine | eher Vorlage A | TSV-Struktur spricht meist fuer mehrere Sparten |
 | Concordia Huelsede | eher Vorlage B | Vermutlich kompakter Vereinsauftritt |
 | TC Bad Fuessing | eher Vorlage B | Einspartenverein Tennis |
