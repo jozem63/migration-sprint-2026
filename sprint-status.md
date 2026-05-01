@@ -11,7 +11,7 @@
 | SV Hellern | Vorlage A | dokumentiert / Umfang vorlaeufig | Datenexport und Zugangsdaten beschaffen, danach Umfang final bestimmen | Oeffentlicher Webcheck zeigt umfangreiche Mehrspartenstruktur |
 | SC Gaissach | eher Vorlage A | dokumentiert | CMS-Zielstruktur und Abteilungsumfang abstimmen | 8 Sportsparten, 447 Seiten, 1512 Medien |
 | SG Geising | eher Vorlage A | dokumentiert | Bestehende Website analysieren und CMS-Zielstruktur erfassen | Mehrspartenverein, ZIP enthaelt Coming-soon und Remote-Redirect |
-| TSV Meine | eher Vorlage A | offen | Spartenstruktur pruefen | TSV-Struktur spricht fuer mehrere Sparten |
+| TSV Meine | Vorlage A | dokumentiert | Sportarten, Downloads und Archivumfang priorisieren und gegen CMS abgleichen | 327 Seiten, 967 Backup-Medien, 154 PDFs, 16 Sportarten/Sparten |
 | Concordia Huelsede | Vorlage B | dokumentiert | Seitenexport und Zielnavigation 1:1 gegen CMS abgleichen | 21 Seiten, 86 Medien, 7 Sparten/Bereiche |
 | TC Bad Fuessing | eher Vorlage B | dokumentiert | Finale Navigation und Inhalte pruefen | Einspartenverein Tennis, Umlaut-Domain |
 | Teltower FV 1913 | eher Vorlage A | offen | Mannschaftsstruktur pruefen | Fussballverein mit Mannschaftsstruktur |

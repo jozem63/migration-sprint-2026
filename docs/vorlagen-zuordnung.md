@@ -11,7 +11,7 @@
 | SV Hellern | Vorlage A | Oeffentlicher Webcheck zeigt umfangreiche Mehrspartenstruktur; finale Umfangsbestaetigung erst nach Datenexport/Zugangsdaten |
 | SC Gaissach | eher Vorlage A | 8 Sportsparten, umfangreiche Archive, Sponsoren, Formulare und gewachsene Mehrspartenstruktur |
 | SG Geising | eher Vorlage A | Mehrspartenverein mit Curling, Eishockey, Fussball, Volleyball und Radsport |
-| TSV Meine | eher Vorlage A | TSV-Struktur spricht meist fuer mehrere Sparten |
+| TSV Meine | Vorlage A | Grosser Mehrspartenverein mit 327 exportierten Seiten, 967 Backup-Medien, 154 PDFs und tiefer Sportarten-/Archivstruktur |
 | Concordia Huelsede | Vorlage B | Kompakter Mehrspartenverein mit 21 exportierten Seiten, 86 Medien und 7 Sparten/Bereichen |
 | TC Bad Fuessing | eher Vorlage B | Einspartenverein Tennis |
 | Teltower FV 1913 | eher Vorlage A | Fussballverein mit Mannschaftsstruktur |

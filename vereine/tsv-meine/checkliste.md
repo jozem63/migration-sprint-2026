@@ -1,0 +1,28 @@
+# Checkliste TSV Meine
+
+- [ ] Aktuellen Vertrags-/Freigabestand klaeren
+- [ ] Vollstaendigen Backup-Umfang gegen ZIP-Inventar pruefen
+- [ ] CMS-Zielpfade aus zContent erfassen
+- [ ] Hauptnavigation final abgleichen
+- [ ] Sportartenstruktur priorisieren
+- [ ] Geloeschte Sparten und interne Bereiche fachlich klaeren
+- [ ] Startseite migrieren
+- [ ] Vereinsstruktur migrieren
+- [ ] Vorstand / erweiterter Vorstand pruefen und migrieren
+- [ ] Kontaktbereiche migrieren
+- [ ] Beitrittsformular / Downloads pruefen
+- [ ] Sportarten-Hauptseiten migrieren
+- [ ] Fussball-Unterstruktur migrieren
+- [ ] Mannschaftsseiten priorisieren und migrieren
+- [ ] Newsarchiv priorisieren
+- [ ] Pressearchiv pruefen
+- [ ] Downloads / PDFs fachlich bereinigen
+- [ ] Sponsoren / Geschaefte migrieren
+- [ ] TSV Shop pruefen
+- [ ] Medienmenge fuer zContent strukturieren
+- [ ] Externe Ligawidgets pruefen
+- [ ] Datenschutz / Impressum pruefen
+- [ ] Staging-Freigabe einholen
+- [ ] DNS / SSL / Redirect vorbereiten
+- [ ] Archivstrategie fuer Altinhalte abstimmen
+- [ ] Uebergabe und Einweisung durchfuehren
