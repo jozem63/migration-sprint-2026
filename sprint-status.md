@@ -11,8 +11,8 @@ Die Go-Live-Daten bilden den mit den Vereinen kommunizierten Realisierungsstand 
 | Verein / Projekt | Domain | Go-Live | Empfehlung | Projektstatus | Naechster Schritt | Hinweis |
 |---|---|---:|---|---|---|---|
 | SV Hohenmoelsen 1919 e.V. | sv1919.de | 31.03.2026 | Referenz / eigene Basis | Abgeschlossen | Als Vergleich dokumentieren | Bereits abgeschlossen |
-| Breitenfelder SV 1924 e.V. | breitenfelder-sv.de | 02.05.2026 | Vorlage A | Uebergabe | BSV-Struktur und Inhalte final abgleichen | Viele Abteilungen, Partner, Downloads, externe Profile |
-| SuS 21 Oberhausen e.V. | sus21-oberhausen.de | 02.05.2026 | Vorlage B / Referenz | Uebergabe | Als Vergleich fuer kompakte Vereinsseite nutzen | Bereits umgesetzt |
+| Breitenfelder SV 1924 e.V. | breitenfelder-sv.de | 02.05.2026 | Vorlage A | Go-Live morgen | Finalen Go-Live-Check, DNS/SSL/Redirect und Sichtpruefung vorbereiten | Fuer 02.05.2026 zum Go-Live vorgesehen |
+| SuS 21 Oberhausen e.V. | sus21-oberhausen.de | 02.05.2026 | Vorlage B / Referenz | Go-Live morgen | Finalen Go-Live-Check, DNS/SSL/Redirect und Sichtpruefung vorbereiten | Fuer 02.05.2026 zum Go-Live vorgesehen |
 | TSV Reinhardtsgrimma 1894 e.V. | tsv-reinhardtsgrimma.de | 09.05.2026 | eher Vorlage B | In Arbeit | Startseitenpfad, Kontaktformular und Reststruktur abgleichen | Vorschau dokumentiert |
 | VfL Wildenfels e.V. | vfl-wildenfels.de | 09.05.2026 | Vorlage A | In Arbeit | Datenexport beschaffen und Altdomain gegen CMS abgleichen | Projekt-ZIP ohne Altseitenexport, 4 Abteilungen und Fussball-Ligawidgets geplant |
 | Heiligenhaeger SV e.V. | Heiligenhaeger-Sportverein.de | 09.05.2026 | eher Vorlage B | In Arbeit | CMS-Stand pruefen und kompakte Struktur finalisieren | 17 Seiten, 55 Medien, CMS PLUS |
