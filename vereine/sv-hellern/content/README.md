@@ -13,7 +13,7 @@
 - Praesidium / Vorstand 2026
 - Geschaeftsstelle mit Oeffnungszeiten
 - Abteilungs-Ansprechpartner
-- News-Artikel, mindestens letzte 12 Monate geplant
+- News-Artikel / Aktuelles im Standard-Migrationszeitraum `06/2025` bis `04/2026`
 - Termine / Kalender
 - Downloads / PDFs
 - Archivseite
@@ -44,4 +44,4 @@ Zusaetzlich oeffentlich sichtbar:
 
 ## Regel
 
-Die Abteilungsstruktur ist verbindlich zu pruefen und nicht eigenstaendig zu kuerzen. Da kein Datenexport und keine Zugangsdaten vorliegen, muessen Inhalte aus der Altdomain noch gesichert und gegen den CMS-Stand abgeglichen werden.
+Die Abteilungsstruktur ist verbindlich zu pruefen und nicht eigenstaendig zu kuerzen. Da kein Datenexport und keine Zugangsdaten vorliegen, muessen Inhalte aus der Altdomain noch gesichert und gegen den CMS-Stand abgeglichen werden. Fuer News/Berichte gilt der geplante Standardzeitraum `06/2025` bis `04/2026`; aeltere Inhalte nur fuer Archiv oder nach Freigabe.

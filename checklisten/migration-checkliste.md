@@ -1,12 +1,15 @@
 # Migration-Checkliste
 
 - [ ] Vorlage festgelegt
+- [ ] Migrationszeitraum `06/2025` bis `04/2026` geprueft
+- [ ] Aeltere Inhalte nur fuer Archiv oder nach Freigabe vorgesehen
 - [ ] CMS-Pfade dokumentiert
 - [ ] Navigation abgestimmt
 - [ ] Templates vorbereitet
 - [ ] Startseite uebertragen
 - [ ] Vereinsseite uebertragen
 - [ ] Abteilungen uebertragen
+- [ ] News / Berichte aus `06/2025` bis `04/2026` uebertragen
 - [ ] Downloads uebertragen
 - [ ] Ansprechpartner uebertragen
 - [ ] Partner / Sponsoren uebertragen

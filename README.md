@@ -14,6 +14,8 @@ Bestehende Inhalte, Seitenstrukturen, Vereinsinformationen, externe Links und be
 - Bestehende Linkziele und CMS-Pfade exakt beachten.
 - Platzhalter wie `%CONTENT%`, `%SIDEBAR%` und `%TRAFFIC%` nicht entfernen, wenn sie zur CMS-Logik gehoeren.
 - Interne CMS-Links werden projektgenau dokumentiert und verwendet.
+- Der Aufwandscheck kann online auf der aktiven Website erfolgen und durch Exportdateien/ZIPs ergaenzt werden.
+- Geplanter Standard-Migrationszeitraum fuer News/Berichte/Aktuelles: `06/2025` bis `04/2026`; aeltere Inhalte nur fuer Archiv oder nach Freigabe.
 
 ## Arbeitsbereiche
 

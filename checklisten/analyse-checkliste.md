@@ -1,11 +1,15 @@
 # Analyse-Checkliste
 
 - [ ] Alte Website-URL dokumentiert
+- [ ] Aktive Website online fuer Aufwandscheck geprueft
+- [ ] Vorhandener Datenexport / ZIP als Zusatzquelle geprueft
+- [ ] Migrationszeitraum `06/2025` bis `04/2026` als Standardumfang vermerkt
 - [ ] Vorschau- oder Ziel-URL dokumentiert
 - [ ] Hauptnavigation aufgenommen
 - [ ] Unterseiten aufgenommen
 - [ ] Abteilungen aufgenommen
 - [ ] News / Aktuelles geprueft
+- [ ] News / Aktuelles nach Zeitraum `06/2025` bis `04/2026` einschaetzt
 - [ ] Termine / Kalender geprueft
 - [ ] Downloads / Formulare aufgenommen
 - [ ] Vorstand / Ansprechpartner aufgenommen

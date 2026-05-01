@@ -1,5 +1,7 @@
 # Vorlagen-Zuordnung
 
+Hinweis: Der Aufwandscheck darf online auf der aktiven Website erfolgen und durch Exportdateien/ZIPs ergaenzt werden. Fuer die Migration gilt als geplanter Standardumfang `06/2025` bis `04/2026`; aeltere Inhalte nur fuer Archiv oder nach Freigabe.
+
 | Verein / Projekt | Empfehlung | Begruendung |
 |---|---|---|
 | Breitenfelder SV 1924 | Vorlage A | Viele Abteilungen, Vereinsstruktur, Partner, Downloads, externe Profile |
@@ -15,3 +17,4 @@
 | Concordia Huelsede | Vorlage B | Kompakter Mehrspartenverein mit 21 exportierten Seiten, 86 Medien und 7 Sparten/Bereichen |
 | TC Bad Fuessing | eher Vorlage B | Einspartenverein Tennis |
 | Teltower FV 1913 | Vorlage A | Fussballverein mit 148 exportierten Seiten, Herren-/Jugendstruktur, Ligawidgets, Downloads und Archiv |
+| HD Tennis Academy | offen | Neu in Projektuebersicht; Website und Projektgrundlagen noch pruefen |
