@@ -12,5 +12,5 @@
 | SC Gaissach | offen | offen | Struktur pruefen | Nach Analyse entscheiden |
 | TSV Meine | eher Vorlage A | offen | Spartenstruktur pruefen | TSV-Struktur spricht fuer mehrere Sparten |
 | Concordia Huelsede | eher Vorlage B | offen | Umfang pruefen | Vermutlich kompakter Vereinsauftritt |
-| TC Bad Fuessing | eher Vorlage B | offen | Tennisstruktur pruefen | Einspartenverein Tennis |
+| TC Bad Fuessing | eher Vorlage B | dokumentiert | Finale Navigation und Inhalte pruefen | Einspartenverein Tennis, Umlaut-Domain |
 | Teltower FV 1913 | eher Vorlage A | offen | Mannschaftsstruktur pruefen | Fussballverein mit Mannschaftsstruktur |
