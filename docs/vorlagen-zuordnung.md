@@ -6,7 +6,7 @@
 | TSV Reinhardtsgrimma | eher Vorlage B | Bereits begonnen, ueberschaubarere Struktur |
 | SuS 21 Oberhausen | Vorlage B / Referenz | Bereits als kompaktere Vereinsseite umgesetzt |
 | SV Hohenmoelsen | Referenz / eigene Basis | Bereits abgeschlossen, kann als Vergleich dienen |
-| VfL Wildenfels | offen | Nach Inhaltsumfang entscheiden |
+| VfL Wildenfels | Vorlage A | Projektakte nennt 4 Abteilungen, Fussball-/Volleyball-Unterstruktur, Ligawidgets und Archiv; finaler Umfang erst nach Datenexport |
 | Heiligenhaeger SV | eher Vorlage B | Ueberschaubarer Vereinsauftritt mit 17 archivierten Seiten, 55 Medien und CMS PLUS |
 | SV Hellern | Vorlage A | Oeffentlicher Webcheck zeigt umfangreiche Mehrspartenstruktur; finale Umfangsbestaetigung erst nach Datenexport/Zugangsdaten |
 | SC Gaissach | eher Vorlage A | 8 Sportsparten, umfangreiche Archive, Sponsoren, Formulare und gewachsene Mehrspartenstruktur |

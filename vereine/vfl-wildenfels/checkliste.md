@@ -1,0 +1,27 @@
+# Checkliste VfL Wildenfels
+
+- [ ] Datenexport / Altseitenbackup beschaffen
+- [ ] CMS-Zielpfade aus zContent erfassen
+- [ ] Hauptnavigation final abgleichen
+- [ ] Vereinsfarben final abstimmen
+- [ ] Social-Media-Praesenzen erfassen
+- [ ] Gruendungsjahr klaeren, falls fuer Inhalte/Design relevant
+- [ ] Startseite migrieren
+- [ ] Fussball-Seite anlegen und migrieren
+- [ ] Fussball-Unterbereiche Maenner, Frauen, D-Junioren, Bambinis pruefen
+- [ ] Ligawidgets fuer Fussball einbinden
+- [ ] Volleyball-Seite anlegen und migrieren
+- [ ] Volleyball-Unterbereiche Maenner, Frauen, Freizeit, Volleyballfreunde pruefen
+- [ ] Kraftsport-Seite anlegen und migrieren
+- [ ] Gymnastik-Seite anlegen und migrieren
+- [ ] Verein / Vorstand pruefen und migrieren
+- [ ] Termine / Kalender migrieren
+- [ ] News / Berichte migrieren
+- [ ] Downloads / PDFs aus Altdomain pruefen
+- [ ] Archivseite klaeren
+- [ ] Kontaktformular einrichten
+- [ ] Datenschutz / Impressum pruefen
+- [ ] Staging-Freigabe einholen
+- [ ] DNS / SSL / Redirect vorbereiten
+- [ ] PWA / SEO einbauen
+- [ ] Uebergabe und Einweisung durchfuehren
